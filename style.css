@@ -1,0 +1,64 @@
+#heading {
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(Gaming\ Wallpapers\ for\ Desktop\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#intro {
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: outset;
+    display: inline-block;
+}
+
+#intro:hover {
+    color: blue;
+}
+
+p{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#typ {
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: outset;
+    display: inline-block;
+}
+
+#typ:hover {
+    color: blue;
+}
+
+.types {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+.spotify {
+    border-style: outset;
+    display: inline-block;
+}
+
+#dbuttons {
+    height: 50px;
+    width: 500px;
+    margin-left: 60px;
+    margin-top: 20px;
+    color: yellow;
+    font-size: large;
+    background-color: black;
+}
+
+#dbuttons:hover {
+    background-color: blue;
+}
